@@ -1,12 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: `Duncan McIsaac`,
+    author: `Duncan McIsaac`,
+    description: `Duncan's blog`,
+    siteUrl: `https://duncanmcisaac.com`,
   },
   plugins: [
     {
@@ -29,9 +26,11 @@ module.exports = {
         plugins: [
           {
             resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 590,
-            },
+              options: {
+                // Removes box shadow and linking on images
+                linkImagesToOriginal: false,
+                backgroundColor: `transparent`,
+              },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
@@ -50,7 +49,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-53779539-1`,
       },
     },
     `gatsby-plugin-feed`,

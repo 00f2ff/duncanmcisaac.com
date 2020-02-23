@@ -32,11 +32,6 @@ a:hover {
   transition: color 0.25s ease;
 }
 
-a.icon {
-  color: var(--light-grey);
-  transition: color 0.25s ease;
-}
-
 a.kiva {
   color: var(--kiva);
   box-shadow: none;

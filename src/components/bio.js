@@ -8,12 +8,13 @@ const Bio = () => {
   return (
     <div
       style={{
-        // display: `flex`,
+        display: `flex`,
+        flexWrap: `wrap`,
         marginBottom: rhythm(2.5),
       }}
     >
-      <p style={{lineHeight: 0 }}>
-        Trying to add a bit more stability to people's lives. Engineer @ <a className="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>.
+      <p>
+        Trying to add more stability to people's lives. Engineer @ <a className="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>. Opinions are my own.
       </p>
       <ul
       className="icon-row"

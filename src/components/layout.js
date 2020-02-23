@@ -28,21 +28,21 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </h1>
     )
-  } else { // todo: decide what kind of consistent header I want to provide.
-    // header = (
-    //   <h3>
-    //     <Link
-    //       style={{
-    //         boxShadow: `none`,
-    //         textDecoration: `none`,
-    //         color: `inherit`,
-    //       }}
-    //       to={`/`}
-    //     >
-    //       {title}
-    //     </Link>
-    //   </h3>
-    // )
+  } else {
+    header = (
+      <h3>
+        <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
+          }}
+          to={`/`}
+        >
+          Home
+        </Link>
+      </h3>
+    )
   }
   return (
     <div

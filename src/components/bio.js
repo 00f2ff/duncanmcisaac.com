@@ -13,7 +13,7 @@ const Bio = () => {
       }}
     >
       <p style={{lineHeight: 0 }}>
-        Trying to add a bit more stability to people's lives. Engineer @ <a class="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>.
+        Trying to add a bit more stability to people's lives. Engineer @ <a className="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>.
       </p>
       <ul
       className="icon-row"

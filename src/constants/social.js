@@ -1,6 +1,7 @@
 import {
   faGithub,
-  faLinkedin
+  faLinkedin,
+  faTwitter
 } from '@fortawesome/free-brands-svg-icons';
 
 import {
@@ -25,4 +26,9 @@ export default [
     icon: faLinkedin,
     url: 'https://www.linkedin.com/in/dmcisaac/',
   },
+  {
+    kind: 'My lame Twitter',
+    icon: faTwitter,
+    url: 'https://twitter.com/hi_im_duncan',
+  }
 ];

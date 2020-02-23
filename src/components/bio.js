@@ -13,7 +13,7 @@ const Bio = () => {
       }}
     >
       <p style={{lineHeight: 0 }}>
-        Trying to add a bit more stability to people's lives. Engineer @ <a href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>.
+        Trying to add a bit more stability to people's lives. Engineer @ <a class="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>.
       </p>
       <ul
       className="icon-row"
@@ -21,10 +21,10 @@ const Bio = () => {
       >
         {SOCIAL.map(s => (
           <li key={s.kind}>
-            <a className="no-box-shadow" href={s.url} target="_blank" rel="noopener noreferrer"> 
+            <a className="no-box-shadow icon" href={s.url} target="_blank" rel="noopener noreferrer"> 
               <FontAwesomeIcon
                 icon={s.icon}
-                color="black;" // todo: reference a var
+                color="var(--light-grey)"
                 title={`${s.kind}`}
               />
             </a>

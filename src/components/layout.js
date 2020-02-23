@@ -55,8 +55,7 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        {/* todo: add footer styling elsewhere */}
+      <footer>        
         © {new Date().getFullYear()} Duncan McIsaac
       </footer>
     </div>

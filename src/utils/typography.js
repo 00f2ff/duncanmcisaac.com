@@ -3,8 +3,12 @@ import Wordpress2016 from "typography-theme-wordpress-2016";
 import './main.css';
 
 Wordpress2016.overrideThemeStyles = () => ({
-  'h1, h2': {
+  'h1, h2, h3, h4, h5, h6': {
     fontFamily: 'Cantana One, serif'
+  },
+  'footer': {
+    fontSize: '0.9rem',
+    display: 'flex',
   }
 });
 

@@ -22,9 +22,16 @@ const BlogIndex = ({ data, location }) => {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  color: `inherit`,
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link 
+                style={{ 
+                  boxShadow: `none`,
+                  color: `var(--orange)`
+                }} 
+                to={node.fields.slug}
+                >
                   {title}
                 </Link>
               </h3>

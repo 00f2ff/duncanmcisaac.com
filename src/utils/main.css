@@ -1,3 +1,56 @@
+body {
+  --background: #f8f8f8;
+
+  --blue: #4281A4;
+  --light-grey: #9CAFB7;
+  --dark-grey: #363635;
+  --orange: #F78154;
+  --teal: #31C6B5;
+
+  --kiva: rgb(73, 149, 63);
+
+
+  background-color: var(--background);
+}
+
+h1 {
+  color: var(--blue);
+}
+
+h3 {
+  color: var(--orange);
+}
+
+a {
+  color: var(--blue);
+  transition: color 0.25s ease;
+}
+
+a:hover {
+  /* make this a gradient? */
+  color: var(--teal);
+  transition: color 0.25s ease;
+}
+
+a.icon {
+  color: var(--light-grey);
+  transition: color 0.25s ease;
+}
+
+a.kiva {
+  color: var(--kiva);
+  box-shadow: none;
+}
+
+a.icon:hover {
+  color: var(--dark-grey);
+  transition: color 0.25s ease;
+}
+
+/* h3 a {
+  color: var(--orange);
+} */
+
 /* removes underline on linked SVGs for icons */
 .no-box-shadow {
   box-shadow: none;

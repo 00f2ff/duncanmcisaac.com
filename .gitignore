@@ -70,4 +70,4 @@ yarn-error.log
 
 
 # Posts I don't feel like including on the site
-content/blog/scala-processing-starter/
+content/blog/scala-processing-starter/*

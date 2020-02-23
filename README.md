@@ -12,3 +12,4 @@ todo:
 -[] Figure out why icon hovering isn't working
 -[] Migrate over the checkbox code / writing. Will need to sort out how to add JS to the page.
 -[] Add SEO
+-[] Add tags

@@ -10,7 +10,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         flexWrap: `wrap`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(1.75),
       }}
     >
       <p>
@@ -18,7 +18,7 @@ const Bio = () => {
       </p>
       <ul
       className="icon-row"
-      style={{ marginBottom: rhythm(1) }}
+      style={{ marginBottom: rhythm(0.5) }}
       >
         {SOCIAL.map(s => (
           <li key={s.kind}>

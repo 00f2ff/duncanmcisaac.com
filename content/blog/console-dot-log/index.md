@@ -1,7 +1,7 @@
 ---
 title: console.log
 date: "2018-02-24"
-description: ""
+description: "console.log inserts environmental consciousness and puns into logging for web development."
 tags: ["software"]
 ---
 

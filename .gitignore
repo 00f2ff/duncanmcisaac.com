@@ -67,7 +67,3 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-
-
-# Posts I don't feel like including on the site
-content/blog/scala-processing-starter/*

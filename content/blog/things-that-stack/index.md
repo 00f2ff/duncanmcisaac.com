@@ -1,7 +1,7 @@
 ---
 title: Things That Stack
 date: "2018-02-23"
-description: ""
+description: "Maybe after reading this you'll see the world from a weird new perspective."
 tags: ["writing"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Dangerous Woman
 date: "2016-09-20"
-description: ""
+description: "Grande's music meets a melodica and lives happily ever after."
 tags: ["music"]
 ---
 

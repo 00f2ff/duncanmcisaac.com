@@ -1,7 +1,7 @@
 ---
 title: In Tech Mostly By Accident
 date: "2019-03-20"
-description: ""
+description: "A story of questionable judgment, poor planning, and going with the flow."
 tags: ["writing"]
 ---
 

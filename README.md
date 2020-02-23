@@ -6,7 +6,7 @@ I don't know React very well, so I borrowed some design patterns (and a bit of c
 
 todo:
 
-- [] Customize site background
-- [] Fix bio wrapping on mobile devices (needs formatting & media queries)
-- [] Figure out why icon hovering isn't working
-- [] Make icons a one-liner with the bio on the bottom of blog pages
+-[] Customize site background
+-[] Fix bio wrapping on mobile devices (needs formatting & media queries)
+-[] Figure out why icon hovering isn't working
+-[] Make icons a one-liner with the bio on the bottom of blog pages

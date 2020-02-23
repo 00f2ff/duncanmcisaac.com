@@ -1,7 +1,7 @@
 ---
 title: You Know the Half of It
 date: "2018-03-31"
-description: ""
+description: "A brief dive into synesthesia and how my perceptual experience tends to be a bit different than average."
 tags: ["writing"]
 ---
 

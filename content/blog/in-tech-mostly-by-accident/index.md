@@ -7,7 +7,7 @@ tags: ["writing"]
 
 I work as a software engineer in San Francisco, and most people assume I attended Carnegie Mellon University because I wanted to work in the tech industry. This is an incorrect assumption, though I am flattered these people have so much faith in my ability to have made coherent decisions as an 18-year-old. After all, CMU is a technical education powerhouse, and people who know that are hard-pressed to believe someone else could not.
 
-The truth is, I decided to apply to the <a target="_blank" href="https://www.cmu.edu/information-systems/">Information Systems</a> (IS) major at Carnegie Mellon for six reasons:
+The truth is, I decided to apply to the <a target="_blank" href="https://www.cmu.edu/information-systems/">Information Systems</a> (IS) major at Carnegie Mellon for five reasons:
 
 1. It was in the university’s humanities school, and I only applied to liberal arts colleges.
 2. I could take _Game Theory_ and _Information Warfare_ as electives at some point. Both of these courses had cool names.

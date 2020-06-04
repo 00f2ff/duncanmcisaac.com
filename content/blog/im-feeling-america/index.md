@@ -1,9 +1,11 @@
 ---
 title: I'm Feeling America
 date: "2020-06-03"
-description: "A poem"
+description: "A collection of poems."
 tags: ["writing"]
 ---
+
+_I'm Feeling America_
 
 How do you feel?  
 I feel the pain of millions   
@@ -42,3 +44,27 @@ It’s quite explicit
 That if you are complicit  
 You’re trying to make America nevermore  
 
+<br>
+
+_Qualified Immunity_
+
+Qualified immunity  
+Quantified impunity  
+The courts need to make room for peace  
+For we the People will not be mollified  
+By police and officials underqualified
+
+<br>
+
+_America Is A Child_
+
+America is a child  
+It can learn  
+We can teach it to yearn  
+For a new take on its fathers' words:  
+"We the People"  
+"All **People** created equal"  
+Let's make a sequel  
+That ain't the prequel
+
+<br>

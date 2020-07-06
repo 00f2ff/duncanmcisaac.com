@@ -5,6 +5,8 @@ description: "It’s important for software engineers to determine what their hi
 tags: ["writing", "software"]
 ---
 
+<i><a target="_blank" href="https://softdroid.net/ierarhiya-inzhenernyh-cennostey">Russian translation</a></i>
+
 It’s important for software engineers to determine what their hierarchy of engineering values is when looking to change projects, teams or companies. Take a moment to think about how you rank or weight the importance of the following:
 
 * _What you build_: How much do you care about what the actual feature or product you build is?

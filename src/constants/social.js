@@ -8,7 +8,7 @@ import {
 	faFile
 } from '@fortawesome/free-solid-svg-icons';
 
-import resume from './../pdfs/duncan_mcisaac_may2020_resume.pdf';
+import resume from './../pdfs/duncan_mcisaac_sept_2021_em_resume.pdf';
 
 export default [
 	{

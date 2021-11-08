@@ -37,20 +37,20 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/Duncan93/duncanmcisaac.com",
+  "homepage": "https://github.com/00f2ff/duncanmcisaac.com",
   "keywords": [
     "duncan",
     "mcisaac",
     "blog",
     "gatsby",
-    "duncan93",
+    "00f2ff",
     "puns"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Duncan93/duncanmcisaac.com.git"
+    "url": "git+https://github.com/00f2ff/duncanmcisaac.com.git"
   },
   "scripts": {
     "build": "gatsby build",

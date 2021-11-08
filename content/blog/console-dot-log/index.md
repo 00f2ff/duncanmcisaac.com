@@ -11,4 +11,4 @@ With console.log, you can now log messages to a browser console that look more l
 
 ![A log that looks like a log](./single_log.png "A log that looks like a log")
 
-For more features and bad jokes, check out console.log on <a target="_blank" href="https://github.com/Duncan93/console.log">GitHub</a>.
+For more features and bad jokes, check out console.log on <a target="_blank" href="https://github.com/00f2ff/console.log">GitHub</a>.

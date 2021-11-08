@@ -19,7 +19,7 @@ export default [
   {
     kind: 'GitHub',
     icon: faGithub,
-    url: 'https://github.com/duncan93',
+    url: 'https://github.com/00f2ff',
   },
   {
     kind: 'LinkedIn',

@@ -7,7 +7,7 @@ body {
   --orange: #F78154;
   --teal: #31C6B5;
 
-  --kiva: rgb(73, 149, 63);
+  --curious-cardinals: rgb(238, 28, 37);
 
 
   background-color: var(--background);
@@ -32,8 +32,8 @@ a:hover {
   transition: color 0.25s ease;
 }
 
-a.kiva {
-  color: var(--kiva);
+a.curious-cardinals {
+  color: var(--curious-cardinals);
   box-shadow: none;
 }
 

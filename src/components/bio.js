@@ -14,7 +14,7 @@ const Bio = () => {
       }}
     >
       <p>
-        Trying to add more stability to people's lives. Engineer @ <a className="kiva" href="https://www.kiva.org" target="_blank" rel="noopener noreferrer">kiva.org</a>. Opinions are my own.
+        Passion is ubiquitous. I help kids find theirs at @ <a className="curious-cardinals" href="https://www.curiouscardinals.com/" target="_blank" rel="noopener noreferrer">Curious Cardinals</a>. Opinions are my own.
       </p>
       <ul
       className="icon-row"

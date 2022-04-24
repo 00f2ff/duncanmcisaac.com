@@ -6,10 +6,10 @@ I don't know React very well, so I borrowed some design patterns (and a bit of c
 
 todo:
 
--[ ] Customize site background
--[ ] Add media queries to reduce marginBottom of bio on mobile; to left-align icons
+- [ ] Customize site background
+- [ ] Add media queries to reduce marginBottom of bio on mobile; to left-align icons
   - Just consider splitting `Bio` into two components and including both on home and only one on posts
--[ ] Figure out why icon hovering isn't working
--[ ] Migrate over the checkbox code / writing. Will need to sort out how to add JS to the page.
--[ ] Add SEO
--[ ] Add tags
+- [ ] Figure out why icon hovering isn't working
+- [ ] Migrate over the checkbox code / writing. Will need to sort out how to add JS to the page.
+- [ ] Add SEO
+- [ ] Add tags
